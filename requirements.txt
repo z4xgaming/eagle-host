@@ -1,4 +1,3 @@
-flask
-requests
-psutil
 pyTelegramBotAPI
+requests
+pycryptodome
